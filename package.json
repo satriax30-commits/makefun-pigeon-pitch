@@ -1,0 +1,1 @@
+{"description":"Pigeon Pitch, One Line — a deterministic Node program writing one city-pigeon startup elevator pitch to /output/entry.txt","engines":{"node":">=22.18"},"license":"MIT","main":"main.ts","name":"makefun-pigeon-pitch","scripts":{"self-check":"node main.ts --self-check","start":"node main.ts"},"type":"module","version":"1.0.0"}
